@@ -1,0 +1,64 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "authorship_tag": "ABX9TyM/sOr0NBBGvvTPQLSPwmZ7",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/hyyunyy/colab/blob/main/%EC%88%98%ED%96%89\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "ss = input(\"\")\n",
+        "\n",
+        "a = 0\n",
+        "b = len(ss)\n",
+        "while a < b\n",
+        "    if (ss[a].isupper())\n",
+        "        print(ss[a].lower(), end='')\n",
+        "    else\n",
+        "        print(ss[a].upper(), end='') \n",
+        "    a += 1"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/",
+          "height": 137
+        },
+        "id": "57qMq4XJcEf8",
+        "outputId": "3dde50fb-4929-4226-f318-ffba44f75066"
+      },
+      "execution_count": null,
+      "outputs": [
+        {
+          "output_type": "error",
+          "ename": "SyntaxError",
+          "evalue": "ignored",
+          "traceback": [
+            "\u001b[0;36m  File \u001b[0;32m\"<ipython-input-5-fe301a2b3855>\"\u001b[0;36m, line \u001b[0;32m5\u001b[0m\n\u001b[0;31m    while a < b\u001b[0m\n\u001b[0m               ^\u001b[0m\n\u001b[0;31mSyntaxError\u001b[0m\u001b[0;31m:\u001b[0m invalid syntax\n"
+          ]
+        }
+      ]
+    }
+  ]
+}
